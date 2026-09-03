@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FuzzyAdventure.Core/FuzzyAdventure.Core.csproj" />
+  <Project Path="FuzzyAdventure.Tests/FuzzyAdventure.Tests.csproj" />
+</Solution>
